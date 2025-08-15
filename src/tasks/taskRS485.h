@@ -4,8 +4,11 @@
 #include "Arduino.h"
 #include "./modbus/modbus.h"
 
-#define GPIO_RS485_TX 22
+#define GPIO_RS485_TX 23
 #define GPIO_RS485_RX 33
+
+//#define ATOM_DTU_RS485_TX 23
+//#define ATOM_DTU_RS485_RX 33
 
 struct RS485t
 {

@@ -12,6 +12,7 @@
 void setup()
 {
   Serial.begin(115200);
+
   Rs485Init();
 
   delay(1000); // Cho serial port ổn định

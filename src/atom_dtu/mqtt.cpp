@@ -1,4 +1,4 @@
-#include "Arduino.h"
+/* #include "Arduino.h"
 //#include <M5Atom.h>
 #include "ATOM_DTU_CAT1.h"
 #include <PubSubClient.h>
@@ -121,4 +121,4 @@ void InitNetwork(void)
                           "s");
     }
     SerialMon.println("success");
-}
+} */

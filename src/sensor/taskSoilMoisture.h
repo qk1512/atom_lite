@@ -3,7 +3,7 @@
 
 #include "./tasks/taskRS485.h"
 
-#define SM_ADDRESS_ID 0x01
+#define SM_ADDRESS_ID 0x1E
 #define SM_FUNCTION_CODE 0x03
 #define SM_ADDRESS_CHECK 0x0100
 
